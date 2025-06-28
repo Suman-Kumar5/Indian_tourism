@@ -1,1 +1,1 @@
-It is a landing for toursim company
+It is a landing page for a tourism company
